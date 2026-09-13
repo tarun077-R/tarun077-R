@@ -101,12 +101,10 @@ cc = user["contributionsCollection"]
 calendar = cc["contributionCalendar"]
 days = [d for w in calendar["weeks"] for d in w["contributionDays"]]
 
-# Basic account/repository metrics.
 public_repos = github_rest(f"/users/{USERNAME}").get("public_repos", 0)
 repo_nodes = user["repositories"]["nodes"]
 total_stars = sum(r["stargazerCount"] for r in repo_nodes)
 
-# Language composition from owned, non-fork repositories.
 languages = Counter()
 for repo in repo_nodes:
     for edge in repo.get("languages", {}).get("edges", []):
@@ -115,7 +113,6 @@ for repo in repo_nodes:
 language_total = sum(languages.values()) or 1
 language_rows = languages.most_common(6)
 
-# Current and longest contribution streak.
 counts = {d["date"]: d["contributionCount"] for d in days}
 ordered = sorted(counts.items())
 current = 0
@@ -132,7 +129,6 @@ for _, count in ordered:
     else:
         run = 0
 
-# Stats card.
 body = "".join([
     text(28, 34, "GitHub Analytics", 18, "#f0f6fc", "700"),
     text(28, 61, USERNAME, 13, "#8b949e"),
@@ -151,7 +147,6 @@ body = "".join([
 ])
 (OUT / "stats.svg").write_text(svg_shell(660, 210, body), encoding="utf-8")
 
-# Top languages card.
 body = text(24, 32, "Top Languages", 18, "#f0f6fc", "700")
 y = 64
 for name, size in language_rows:
@@ -163,16 +158,13 @@ for name, size in language_rows:
     y += 38
 (OUT / "top-languages.svg").write_text(svg_shell(600, 64 + 38 * max(1, len(language_rows)), body), encoding="utf-8")
 
-# Contribution activity heatmap for the last year.
 levels = ["#161b22", "#0e4429", "#006d32", "#26a641", "#39d353"]
 max_count = max(counts.values() or [1])
-# Render by ISO week, matching GitHub's familiar calendar layout.
 start_date = min(counts) if counts else start.date().isoformat()
 first = dt.date.fromisoformat(start_date)
 first_sunday = first - dt.timedelta(days=(first.weekday() + 1) % 7)
 body = text(24, 32, "Contribution Activity", 18, "#f0f6fc", "700")
 body += text(24, 54, f"{calendar['totalContributions']} contributions in the last year", 12, "#8b949e")
-cell = 11
 x0, y0 = 24, 76
 for day_index in range(371):
     date = first_sunday + dt.timedelta(days=day_index)
@@ -191,12 +183,9 @@ body += text(190, 191, f"Longest streak: {longest} days", 12, "#8b949e")
 body += text(365, 191, "Less", 11, "#8b949e")
 for i, color in enumerate(levels):
     body += f'<rect x="397" y="183" width="10" height="10" rx="2" fill="{color}"/>'
-    if i == 0:
-        pass
 body += text(470, 191, "More", 11, "#8b949e")
-(OUT / "activity.svg").write_text(svg_shell(660, 215, body), encoding="utf-8")
+(OUT / "activity.svg").write_text(svg_shell(800, 215, body), encoding="utf-8")
 
-# Local streak card so the README has no dependency on a streak service either.
 body = text(28, 34, "Contribution Streak", 18, "#f0f6fc", "700")
 body += text(28, 94, str(calendar["totalContributions"]), 30, "#58a6ff", "700")
 body += text(28, 116, "total contributions", 12, "#8b949e")
