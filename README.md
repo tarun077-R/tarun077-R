@@ -1,17 +1,19 @@
-<h1 align="center">Hi 👋, I'm Tarun</h1>
+<div align="center">
 
-<h3 align="center">
-  MERN Stack Developer | BCA Graduate | Building Modern Full-Stack Web Applications
-</h3>
+# Hi 👋, I'm Tarun
 
-<p align="center">
+### MERN Stack Developer | BCA Graduate | Building Modern Full-Stack Web Applications
+
+<p>
   <a href="https://github.com/tarun077-R">
     <img src="https://img.shields.io/github/followers/tarun077-R?label=Followers&style=for-the-badge&logo=github" alt="GitHub Followers">
   </a>
-  <a href="https://github.com/tarun077-R">
+  <a href="https://komarev.com/ghpvc/?username=tarun077-r">
     <img src="https://komarev.com/ghpvc/?username=tarun077-r&label=Profile%20Views&style=for-the-badge" alt="Profile Views">
   </a>
 </p>
+
+</div>
 
 ---
 
@@ -32,7 +34,7 @@ I'm a **BCA Graduate and MERN Stack Developer** passionate about building modern
 
 ### Frontend
 
-<p align="left">
+<p>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="45" height="45" alt="HTML5">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="45" height="45" alt="CSS3">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="45" height="45" alt="JavaScript">
@@ -45,7 +47,7 @@ I'm a **BCA Graduate and MERN Stack Developer** passionate about building modern
 
 ### Backend & Database
 
-<p align="left">
+<p>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="45" height="45" alt="Node.js">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="45" height="45" alt="Express.js">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="45" height="45" alt="MongoDB">
@@ -54,7 +56,7 @@ I'm a **BCA Graduate and MERN Stack Developer** passionate about building modern
 
 ### Tools
 
-<p align="left">
+<p>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="45" height="45" alt="Git">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="45" height="45" alt="GitHub">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="45" height="45" alt="Docker">
@@ -67,43 +69,32 @@ I'm a **BCA Graduate and MERN Stack Developer** passionate about building modern
 
 <table>
 <tr>
-
 <td width="50%" valign="top">
 
 ### 📚 Student E-Library
 
 A web-based library application designed to provide an organized digital learning experience.
 
-**Tech Stack**
-
 `HTML` `CSS` `JavaScript`
-
-<br>
 
 <a href="https://github.com/tarun077-R/Student-E-Library">
   <img src="https://img.shields.io/badge/View%20Repository-181717?style=for-the-badge&logo=github&logoColor=white" alt="View Repository">
 </a>
 
 </td>
-
 <td width="50%" valign="top">
 
 ### 💰 Backend Ledger
 
 A backend-focused project built to practice server-side development, APIs and database integration.
 
-**Tech Stack**
-
 `Node.js` `Express.js` `MongoDB`
-
-<br>
 
 <a href="https://github.com/tarun077-R/Backend-Ledger">
   <img src="https://img.shields.io/badge/View%20Repository-181717?style=for-the-badge&logo=github&logoColor=white" alt="View Repository">
 </a>
 
 </td>
-
 </tr>
 </table>
 
@@ -112,17 +103,11 @@ A backend-focused project built to practice server-side development, APIs and da
 ## 📊 GitHub Analytics
 
 <p align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api?username=tarun077-R&show_icons=true&include_all_commits=true&count_private=false&rank_icon=github&hide_border=true"
-    alt="Tarun's GitHub Stats"
-  />
+  <img src="./profile/stats.svg" width="660" alt="Tarun's GitHub Analytics">
 </p>
 
 <p align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=tarun077-R&layout=compact&langs_count=8&hide_border=true"
-    alt="Tarun's Top Languages"
-  />
+  <img src="./profile/top-languages.svg" width="600" alt="Tarun's Top Languages">
 </p>
 
 ---
@@ -130,10 +115,7 @@ A backend-focused project built to practice server-side development, APIs and da
 ## 🔥 Contribution Streak
 
 <p align="center">
-  <img
-    src="https://streak-stats.demolab.com?user=tarun077-R&hide_border=true"
-    alt="Tarun's GitHub Contribution Streak"
-  />
+  <img src="./profile/streak.svg" width="660" alt="Tarun's Contribution Streak">
 </p>
 
 ---
@@ -141,21 +123,7 @@ A backend-focused project built to practice server-side development, APIs and da
 ## 📈 Contribution Activity
 
 <p align="center">
-  <img
-    src="https://github-readme-activity-graph.vercel.app/graph?username=tarun077-R&theme=github-compact&hide_border=true&area=true"
-    alt="Tarun's GitHub Activity Graph"
-  />
-</p>
-
----
-
-## 🏆 GitHub Trophies
-
-<p align="center">
-  <img
-    src="https://github-profile-trophy.vercel.app/?username=tarun077-R&theme=flat&no-frame=true&no-bg=true&row=1&column=6"
-    alt="Tarun's GitHub Trophies"
-  />
+  <img src="./profile/activity.svg" width="800" alt="Tarun's Contribution Activity">
 </p>
 
 ---
@@ -163,11 +131,8 @@ A backend-focused project built to practice server-side development, APIs and da
 ## 🌱 Currently Learning
 
 <p align="center">
-
-<img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript">
-
-<img src="https://img.shields.io/badge/GSAP-88CE02?style=for-the-badge&logo=greensock&logoColor=white" alt="GSAP">
-
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript">
+  <img src="https://img.shields.io/badge/GSAP-88CE02?style=for-the-badge&logo=greensock&logoColor=white" alt="GSAP">
 </p>
 
 <p align="center">
@@ -179,19 +144,15 @@ A backend-focused project built to practice server-side development, APIs and da
 ## 🤝 Connect With Me
 
 <p align="center">
-
-<a href="https://linkedin.com/in/tarun007-r">
-  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
-</a>
-
-<a href="mailto:tarunrawat8350@gmail.com">
-  <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
-</a>
-
-<a href="https://github.com/tarun077-R">
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
-</a>
-
+  <a href="https://linkedin.com/in/tarun007-r">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+  </a>
+  <a href="mailto:tarunrawat8350@gmail.com">
+    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
+  </a>
+  <a href="https://github.com/tarun077-R">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
+  </a>
 </p>
 
 ---
@@ -209,8 +170,5 @@ A backend-focused project built to practice server-side development, APIs and da
 </p>
 
 <p align="center">
-  <img
-    src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:2c5364&height=100&section=footer"
-    alt="Footer"
-  >
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:2c5364&height=100&section=footer" alt="Footer">
 </p>
