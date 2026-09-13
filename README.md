@@ -6,10 +6,10 @@
 
 <p align="center">
   <a href="https://github.com/tarun077-R">
-    <img src="https://img.shields.io/github/followers/tarun077-R?label=Followers&style=for-the-badge&logo=github" alt="GitHub Followers" />
+    <img src="https://img.shields.io/github/followers/tarun077-R?label=Followers&style=for-the-badge&logo=github" alt="GitHub Followers">
   </a>
   <a href="https://github.com/tarun077-R">
-    <img src="https://komarev.com/ghpvc/?username=tarun077-r&label=Profile%20Views&style=for-the-badge" alt="Profile Views" />
+    <img src="https://komarev.com/ghpvc/?username=tarun077-r&label=Profile%20Views&style=for-the-badge" alt="Profile Views">
   </a>
 </p>
 
@@ -22,8 +22,8 @@ I'm a **BCA Graduate and MERN Stack Developer** passionate about building modern
 - 💻 Focused on **MERN Stack Development**
 - 🌱 Currently learning **TypeScript & GSAP**
 - 🎨 Interested in **modern UI, animations and interactive experiences**
-- 🚀 Improving my skills in **full-stack development**
-- 🤝 Open to collaborating on interesting **MERN Stack projects**
+- 🚀 Continuously improving my **full-stack development skills**
+- 🤝 Open to collaborating on **MERN Stack projects**
 - ⚡ I enjoy turning creative ideas into interactive web experiences
 
 ---
@@ -33,32 +33,32 @@ I'm a **BCA Graduate and MERN Stack Developer** passionate about building modern
 ### Frontend
 
 <p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="45" height="45" alt="HTML5"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="45" height="45" alt="CSS3"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="45" height="45" alt="JavaScript"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="45" height="45" alt="TypeScript"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="45" height="45" alt="React"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" width="45" height="45" alt="Redux"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" width="45" height="45" alt="Tailwind CSS"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" width="45" height="45" alt="Sass"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="45" height="45" alt="HTML5">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="45" height="45" alt="CSS3">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="45" height="45" alt="JavaScript">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="45" height="45" alt="TypeScript">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="45" height="45" alt="React">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" width="45" height="45" alt="Redux">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" width="45" height="45" alt="Tailwind CSS">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" width="45" height="45" alt="Sass">
 </p>
 
 ### Backend & Database
 
 <p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="45" height="45" alt="Node.js"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="45" height="45" alt="Express.js"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="45" height="45" alt="MongoDB"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="45" height="45" alt="MySQL"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="45" height="45" alt="Node.js">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="45" height="45" alt="Express.js">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="45" height="45" alt="MongoDB">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="45" height="45" alt="MySQL">
 </p>
 
 ### Tools
 
 <p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="45" height="45" alt="Git"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="45" height="45" alt="GitHub"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="45" height="45" alt="Docker"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" width="45" height="45" alt="Postman"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="45" height="45" alt="Git">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="45" height="45" alt="GitHub">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="45" height="45" alt="Docker">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" width="45" height="45" alt="Postman">
 </p>
 
 ---
@@ -81,7 +81,7 @@ A web-based library application designed to provide an organized digital learnin
 <br>
 
 <a href="https://github.com/tarun077-R/Student-E-Library">
-  <img src="https://img.shields.io/badge/View%20Repository-181717?style=for-the-badge&logo=github" alt="View Repository"/>
+  <img src="https://img.shields.io/badge/View%20Repository-181717?style=for-the-badge&logo=github&logoColor=white" alt="View Repository">
 </a>
 
 </td>
@@ -99,7 +99,7 @@ A backend-focused project built to practice server-side development, APIs and da
 <br>
 
 <a href="https://github.com/tarun077-R/Backend-Ledger">
-  <img src="https://img.shields.io/badge/View%20Repository-181717?style=for-the-badge&logo=github" alt="View Repository"/>
+  <img src="https://img.shields.io/badge/View%20Repository-181717?style=for-the-badge&logo=github&logoColor=white" alt="View Repository">
 </a>
 
 </td>
@@ -160,35 +160,13 @@ A backend-focused project built to practice server-side development, APIs and da
 
 ---
 
-## 📌 Featured Repositories
-
-<p align="center">
-
-<a href="https://github.com/tarun077-R/Student-E-Library">
-  <img
-    src="https://github-readme-stats.vercel.app/api/pin/?username=tarun077-R&repo=Student-E-Library&hide_border=true"
-    alt="Student E-Library"
-  />
-</a>
-
-<a href="https://github.com/tarun077-R/Backend-Ledger">
-  <img
-    src="https://github-readme-stats.vercel.app/api/pin/?username=tarun077-R&repo=Backend-Ledger&hide_border=true"
-    alt="Backend Ledger"
-  />
-</a>
-
-</p>
-
----
-
 ## 🌱 Currently Learning
 
 <p align="center">
 
-<img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript"/>
+<img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript">
 
-<img src="https://img.shields.io/badge/GSAP-88CE02?style=for-the-badge&logo=greensock&logoColor=white" alt="GSAP"/>
+<img src="https://img.shields.io/badge/GSAP-88CE02?style=for-the-badge&logo=greensock&logoColor=white" alt="GSAP">
 
 </p>
 
@@ -203,15 +181,15 @@ A backend-focused project built to practice server-side development, APIs and da
 <p align="center">
 
 <a href="https://linkedin.com/in/tarun007-r">
-  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
 </a>
 
 <a href="mailto:tarunrawat8350@gmail.com">
-  <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
 </a>
 
 <a href="https://github.com/tarun077-R">
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
 </a>
 
 </p>
@@ -234,5 +212,5 @@ A backend-focused project built to practice server-side development, APIs and da
   <img
     src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:2c5364&height=100&section=footer"
     alt="Footer"
-  />
+  >
 </p>
