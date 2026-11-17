@@ -1,16 +1,8 @@
-<h2 align="left">Hi 👋! My name is Tarun and I'm a Full-Stack Developer, from India.</h2>
+<h2 align="left">Hi 👋! I'm Tarun Rawat, a BCA graduate and MERN Stack Developer from Uttarakhand, India. I love building web applications and exploring new technologies.</h2>
 
-###
-
-<p align="left">
-  <img src="https://komarev.com/ghpvc/?username=tarun077-R&style=flat-square&color=blue" alt="Profile Views" />
-  <img src="https://img.shields.io/badge/Status-Coding%20%F0%9F%92%BB-success?style=flat-square" alt="Status" />
-</p>
-
-###
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/tarun077-R/tarun077-R/stats-output/stats.svg?hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph" />
+  <img src="https://github-readme-stats.vercel.app/api?username=tarun077-R&show_icons=true&include_all_commits=true&count_private=true&theme=dracula&hide_border=false" alt="stats graph" />
   <img src="https://raw.githubusercontent.com/tarun077-R/tarun077-R/languages-output/languages.svg?locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph" />
 </div>
 
