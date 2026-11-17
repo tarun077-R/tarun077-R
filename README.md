@@ -9,10 +9,10 @@
 
 ###
 
-<div align="center">
-  <img src="https://raw.githubusercontent.com/tarun077-R/tarun077-R/stats-output/stats.svg?hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph" />
-  <img src="https://raw.githubusercontent.com/tarun077-R/tarun077-R/languages-output/languages.svg?locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph" />
-</div>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=tarun077-R&show_icons=true&include_all_commits=true&count_private=true&theme=dracula&hide_border=false" alt="stats graph" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tarun077-R&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" alt="languages graph" />
+</p>
 
 ###
 
@@ -49,14 +49,14 @@
 
 <h3 align="left">📫 Connect with Me</h3>
 <div align="left">
-  <a href="mailto:your-email@gmail.com">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo" />
+  <a href="mailto:tarun.rawat@technogetic.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="35" alt="gmail logo" />
   </a>
   <a href="https://linkedin.com/in/your-linkedin-username" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo" />
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="35" alt="linkedin logo" />
   </a>
   <a href="https://instagram.com/your-instagram-username" target="_blank">
-    <img src="https://img.shields.io/static/v1`message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo" />
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" height="35" alt="gray logo" />
   </a>
 </div>
 
@@ -66,5 +66,5 @@
 
 <h3 align="center">⚡ GitHub Activity Snake</h3>
 <p align="center">
-  <img src="https://raw.githubusercontent.com/tarun077-R/tarun077-R/snake-output/snake.svg" alt="Snake animation" />
+  <img src="https://raw.githubusercontent.com/tarun077-R/tarun077-R/output/snake.svg" alt="Snake animation" />
 </p>
