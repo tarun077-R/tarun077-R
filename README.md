@@ -1,12 +1,18 @@
-<h2 data-importer="text" align="left">Hi 👋! I'm Tarun Rawat, a BCA graduate and MERN Stack Developer from Uttarakhand, India. I love building web applications and exploring new technologies.</h2>
+<h3 data-importer="text" align="left">Hi 👋! I'm Tarun Rawat, a BCA graduate and MERN Stack Developer from Uttarakhand, India. I love building web applications and exploring new technologies.</h3>
 
 ###
-
-<div data-importer="stats" align="center">
- <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=tarun077-R&theme=dracula" alt="stats graph" />
-  <img src="https://raw.githubusercontent.com/tarun077-R/tarun077-R/languages-output/languages.svg?locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
-</div>
-
+<p align="center">
+  <table border="0" align="center">
+    <tr>
+      <td align="center">
+        <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=tarun077-R" alt="stats graph" height="195" />
+      </td>
+      <td align="center">
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tarun077-R&layout=compact&card_width=320&langs_count=5&hide_border=false" alt="languages graph" height="195" />
+      </td>
+    </tr>
+  </table>
+</p>
 ###
 
 <img data-importer="image" align="right" height="150" src="https://i.imgflip.com/65efzo.gif"  />
