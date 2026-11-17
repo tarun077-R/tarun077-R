@@ -1,4 +1,4 @@
-<h2 data-importer="text" align="left">Hi 👋! My name is ... and I'm a ..., from ....</h2>
+<h2 data-importer="text" align="left">Hi 👋! I'm Tarun Rawat, a BCA graduate and MERN Stack Developer from Uttarakhand, India. I love building web applications and exploring new technologies.</h2>
 
 ###
 
