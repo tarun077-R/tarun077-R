@@ -1,5 +1,6 @@
 <h3 align="left">Hi 👋! I'm Tarun Rawat, a BCA graduate and MERN Stack Developer from Uttarakhand, India. I love building web applications and exploring new technologies.</h3>
 
+<hr/>
 
 <div align="center">
  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=tarun077-R&theme=dracula" alt="stats graph" />
