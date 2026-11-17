@@ -1,4 +1,4 @@
-<h3 align="left">Hi 👋! I'm Tarun Rawat, a BCA graduate and MERN Stack Developer from Uttarakhand, India. I love building web applications and exploring new technologies.</h3>
+<h3 align="left">Hi 👋! My name is Tarun Rawat and I'm a MERN Stack Developer from Uttarakhand, India.</h3>
 
 <hr/>
 
